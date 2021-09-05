@@ -37,7 +37,9 @@ body{
 .footer{
     background-color: #ce7cf1;
 }
-
+.navbar-dark{
+    background-color: #512DA8;
+}
 
 /* .navbar-inverse {
      background: #303F9F;
